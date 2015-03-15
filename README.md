@@ -1,2 +1,2 @@
 # coursera
-Code from a few MOOCs I have done on Coursera.
+Code from a few [coursera](https://www.coursera.org/) MOOCs.
